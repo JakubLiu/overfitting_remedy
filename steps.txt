@@ -1,0 +1,7 @@
+1. add more predictors to the nD distribution approach (DONE)
+2. test the multiple 1D distributions approach by changing the beta values
+3. test both approaches on real world data that suit a simple linear regression
+
+    - real world data available from https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression?resource=download
+    - Y is the performance index
+    - maybe add some noise to Y
